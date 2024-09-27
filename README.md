@@ -56,3 +56,6 @@ CICIDS2017 contains 251,496 instances and 79 features covering 14 attack types.
 - Recall: The ratio of correctly predicted positive observations to all actual positives.
 - F1-Score: A weighted average of precision and recall.
 - ROC-AUC: Measures the performance of classification models at various threshold settings.
+## Acknowledgments
+- Special thanks to my supervisor, Dr. Imran Khan, for his guidance throughout this research.
+- This project utilizes the datasets provided by UNSW and the Canadian Institute for Cybersecurity.
