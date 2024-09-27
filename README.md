@@ -22,7 +22,7 @@ This project explores the application of machine learning techniques to cybersec
 git clone https://[github.com/ackben0226/cybersecurity-ml.git](https://github.com/ackben0226/MLCybersecutity/blob/main/ML%20Cybersecurity%20project/Final_CICIDS2017%20(3).ipynb)
 1. Install dependencies:
 <br/> pip install jupyterlab pandas scikit-learn matplotlib
-2.Launch the notebook:
+2. Launch the notebook:
 <br/> jupyter notebook
 - Download datasets:
 UNSW-NB15 Dataset: Link
