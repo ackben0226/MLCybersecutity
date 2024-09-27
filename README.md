@@ -19,7 +19,7 @@ This project explores the application of machine learning techniques to cybersec
 - Evaluation Metrics: Use of precision, recall, F1-score, and ROC-AUC for performance analysis.
 ## Installation
 - Clone the repository:
-git clone https://github.com/ackben0226/cybersecurity-ml.git
+git clone https://[github.com/ackben0226/cybersecurity-ml.git](https://github.com/ackben0226/MLCybersecutity/blob/main/ML%20Cybersecurity%20project/Final_CICIDS2017%20(3).ipynb)
 - Install dependencies:
 pip install -r requirements.txt
 - Download datasets:
