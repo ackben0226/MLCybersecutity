@@ -35,8 +35,24 @@ python setup.py
 Usage
 Preprocess the Data: Run the following command to preprocess the datasets.
 
-python preprocess.py
+## python preprocess.py
 Train Machine Learning Models: To train the models on the datasets, use:
 python train_model.py
 Evaluate Models: After training, you can evaluate model performance using:
 python evaluate.py
+## Datasets
+## UNSW-NB15
+The UNSW-NB15 dataset contains 257,673 records and includes 49 features that represent nine types of attacks.
+## CICIDS2017
+CICIDS2017 contains 251,496 instances and 79 features covering 14 attack types.
+## Machine Learning Models
+- Random Forest (RF): A versatile model that operates by constructing multiple decision trees.
+- XGBoost (XGB): A gradient boosting framework used for more efficient and faster learning.
+- Decision Trees (DT): A model that splits the data into subsets based on the most significant features.
+- Support Vector Machines (SVM): A robust classifier using hyperplanes to separate different classes.
+## Evaluation Metrics
+- Accuracy: Measures the overall correctness of the model’s predictions.
+- Precision: The ratio of correctly predicted positive observations.
+- Recall: The ratio of correctly predicted positive observations to all actual positives.
+- F1-Score: A weighted average of precision and recall.
+- ROC-AUC: Measures the performance of classification models at various threshold settings.
