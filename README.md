@@ -24,9 +24,11 @@ git clone https://[github.com/ackben0226/cybersecurity-ml.git](https://github.co
 <br/> pip install jupyterlab pandas scikit-learn matplotlib
 2. Launch the notebook:
 <br/> jupyter notebook
-- Download datasets:
-UNSW-NB15 Dataset: Link
-CICIDS2017 Dataset: Link
+## Download datasets:
+UNSW-NB15 Dataset: [Link](https://research.unsw.edu.au/projects/unsw-nb15-dataset)
+- This dataset contains network traffic with both normal and malicious activities and is used for training and testing network intrusion detection systems (NIDS).
+CICIDS2017 Dataset: [Link](https://www.unb.ca/cic/datasets/ids-2017.html)
+ - This dataset includes network traffic and various types of malicious attacks such as DDoS, Brute Force, and Infiltration attacks, useful for intrusion detection research.
 - Run the setup script:
 python setup.py
 Usage
