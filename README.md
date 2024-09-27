@@ -1,4 +1,4 @@
-# Enhancing Cybersecurity Resilience: Leveraging Machine Learning for Advanced Threat Detection and Response
+## Enhancing Cybersecurity Resilience: Leveraging Machine Learning for Advanced Threat Detection and Response
 ## Table of Content 
 - Project Description
 - Features
@@ -57,5 +57,5 @@ CICIDS2017 contains 251,496 instances and 79 features covering 14 attack types.
 - F1-Score: A weighted average of precision and recall.
 - ROC-AUC: Measures the performance of classification models at various threshold settings.
 ## Acknowledgments
-- Special thanks to my supervisor, Dr. Imran Khan, for his guidance throughout this research.
+- Special thanks to my supervisor, Dr. Imran Khan, University of Sussex, for his guidance throughout this research.
 - This project utilizes the datasets provided by UNSW and the Canadian Institute for Cybersecurity.
