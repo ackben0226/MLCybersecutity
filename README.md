@@ -36,9 +36,9 @@ Usage
 Preprocess the Data: Run the following command to preprocess the datasets.
 
 ## python preprocess.py
-Train Machine Learning Models: To train the models on the datasets, use:
+- Train Machine Learning Models: To train the models on the datasets, use:
 python train_model.py
-Evaluate Models: After training, you can evaluate model performance using:
+- Evaluate Models: After training, you can evaluate model performance using:
 python evaluate.py
 ## Datasets
 ## UNSW-NB15
