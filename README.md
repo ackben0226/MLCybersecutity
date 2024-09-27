@@ -19,30 +19,19 @@ This project explores the application of machine learning techniques to cybersec
 - Evaluation Metrics: Use of precision, recall, F1-score, and ROC-AUC for performance analysis.
 ## Installation
 - Clone the repository:
-git clone https://github.com/ack.ben0226/cybersecurity-ml.git
+git clone https://github.com/ackben0226/cybersecurity-ml.git
 - Install dependencies:
 pip install -r requirements.txt
 - Download datasets:
 UNSW-NB15 Dataset: Link
 CICIDS2017 Dataset: Link
-Run the setup script:
-
-bash
-Copy code
+- Run the setup script:
 python setup.py
 Usage
 Preprocess the Data: Run the following command to preprocess the datasets.
 
-bash
-Copy code
 python preprocess.py
 Train Machine Learning Models: To train the models on the datasets, use:
-
-bash
-Copy code
 python train_model.py
 Evaluate Models: After training, you can evaluate model performance using:
-
-bash
-Copy code
 python evaluate.py
